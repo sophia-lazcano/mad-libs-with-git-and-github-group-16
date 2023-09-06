@@ -3,11 +3,11 @@
 3. Adjective Ugly
 4. Color Black
 5. Month November
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. Number 3
+7. Noun Monkeys
+8. Noun Capybaras
+9. Noun Spaceship
+10. Room Name Library
 11. Liquid
 12. Adjective
 13. Material
