@@ -1,13 +1,13 @@
-1. Friend's Name Mason
-2. Adjective Magnificent
-3. Adjective Ugly
-4. Color Black
-5. Month November
-6. Number 3
-7. Noun Monkeys
-8. Noun Capybaras
-9. Noun Spaceship
-10. Room Name Library
+1. Mason
+2. Magnificent
+3. Ugly
+4. Black
+5. November
+6. 3
+7. Monkeys
+8. Capybaras
+9. Spaceship
+10. Library
 11. Liquid
 12. Adjective
 13. Material
