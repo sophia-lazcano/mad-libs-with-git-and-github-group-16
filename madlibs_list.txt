@@ -1,21 +1,21 @@
-1. Friend's Name Mason
-2. Adjective Magnificent
-3. Adjective Ugly
-4. Color Black
-5. Month November
-6. Number 3
-7. Noun Monkeys
-8. Noun Capybaras
-9. Noun Spaceship
-10. Room Name Library
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+1. Mason
+2. Magnificent
+3. Ugly
+4. Black
+5. November
+6. 3
+7. Monkeys
+8. Capybaras
+9. Spaceship
+10. Library
+11. stars
+12. superior
+13. pillows
+14. exploring
+15. everyday
+16. 117
+17. Milliseconds
+18. Pottery Class
+19. Hungry
+20. Tesla
+21. Your Name: Caelli
